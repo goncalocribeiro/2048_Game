@@ -1,5 +1,6 @@
 # 2048 Game
-Project 2048 Game
+
+College: Instituto Superior Técnico
 
 Discipline: Foundations of programming
 
